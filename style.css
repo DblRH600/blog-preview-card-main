@@ -33,8 +33,6 @@ body {
   margin-top: 150px;
 }
 .card-blog-image {
-  /* align-self: stretch; */
-  /* height: 200px; */
   border-radius: 10px;
 }
 .card-blog-comment-container {
@@ -64,20 +62,14 @@ body {
 .card-blog-label {
   font-weight: 800;
   font-size: 14px;
-  /* color: #111;
-  line-height: 150%;
-  letter-spacing: 0px; */
 }
 .card-blog-date {
   font-weight: 500;
   font-size: 14px;
-  /* line-height: 150%; 
-   color: #111; */
 }
 .card-blog-heading {
   font-weight: 800;
   font-size: 24px;
-  /* line-height: 150%; */
 }
 .card-blog-comments {
   font-weight: 500;
