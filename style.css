@@ -58,6 +58,7 @@ body {
 .card-blog-heading:hover,
 .card-profile {
   cursor: pointer;
+  color: #f4d04e
 }
 .card-blog-label {
   font-weight: 800;
